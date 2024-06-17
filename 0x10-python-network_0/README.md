@@ -1,1 +1,1 @@
-readme file for 0x10-python_network_0
+readme file for 0x10-python-network_0
